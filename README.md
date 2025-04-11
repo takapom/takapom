@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nextjs,react,github,discord,sqlite,firebase,vscode,mysql,pycharm,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nextjs,react,github,discord,sqlite,firebase,vscode,mysql,pycharm,docker" style="max-width: 100%;" />
   </a>
 </p>
-
 
 
 ## 📊 Stats
