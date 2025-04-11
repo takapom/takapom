@@ -5,7 +5,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nextjs,react,github,discord,sqlite,firebase,vscode,mysql,pycharm,docker" style="max-width: 100%;" />
   </a>
-</p>
+</p
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={takapom}&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 📊 Stats
