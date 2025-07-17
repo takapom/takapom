@@ -20,9 +20,12 @@
 
 | 🏢 **Company** | 📅 **Period** | 💻 **Role** | 🔧 **Technologies** |
 |:-------------:|:------------:|:-----------:|:------------------:|
-| **Tech Corp Inc.** | 2024.04 - 2024.09 | Full Stack Developer Intern | Next.js, TypeScript, AWS |
-| **StartUp XYZ** | 2023.07 - 2023.12 | Frontend Engineer Intern | React, Redux, Tailwind CSS |
-| **Digital Agency ABC** | 2022.08 - 2023.01 | Web Development Intern | HTML/CSS, JavaScript, WordPress |
+| **GMO Inc.** | 2025.08 - 2025.09 | Full Stack Developer Intern | Next.js, TypeScript, AWS |
+| **Omluc Inc** | 2025.03 - 2025.08 | Frontend Engineer Intern | React, Redux, Tailwind CSS |
+| **Sky Inc  ** | 2025.08 - 2025.09 | Web Development Intern | HTML/CSS, JavaScript, WordPress |
+| **Rakusu Inc.** | 2025.08 - 2025.08 | Full Stack Developer Intern | Next.js, TypeScript, AWS |
+| **excite Inc** | 2025.10 - 2025.11 | Frontend Engineer Intern | React, Redux, Tailwind CSS |
+| **3Shake** | 2025.08 - 2025.10 | Web Development Intern | HTML/CSS, JavaScript, WordPress |
 
 <br/>
 
