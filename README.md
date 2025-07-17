@@ -12,6 +12,34 @@
 
 </div>
 
+## 💼 Professional Experience
+
+<div align="center">
+  
+### 🌟 Internship Journey
+
+| 🏢 **Company** | 📅 **Period** | 💻 **Role** | 🔧 **Technologies** |
+|:-------------:|:------------:|:-----------:|:------------------:|
+| **Tech Corp Inc.** | 2024.04 - 2024.09 | Full Stack Developer Intern | Next.js, TypeScript, AWS |
+| **StartUp XYZ** | 2023.07 - 2023.12 | Frontend Engineer Intern | React, Redux, Tailwind CSS |
+| **Digital Agency ABC** | 2022.08 - 2023.01 | Web Development Intern | HTML/CSS, JavaScript, WordPress |
+
+<br/>
+
+### 🎯 Key Achievements
+
+```yaml
+Internship Highlights:
+  - Developed: Production-ready features used by 10k+ users
+  - Collaborated: Cross-functional teams in Agile/Scrum environment
+  - Optimized: Application performance by 40% through code refactoring
+  - Implemented: CI/CD pipelines using GitHub Actions and Docker
+  - Contributed: 50+ PRs merged to production codebase
+  - Mentored: 3 junior developers and conducted weekly code reviews
+```
+
+</div>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -80,5 +108,36 @@ const currentFocus = {
   learning: ["Cloud Architecture", "AI/ML Integration", "Web3"],
   building: ["Full-Stack Applications", "Open Source Tools"],
   exploring: ["New Frameworks", "Best Practices", "Performance Optimization"],
-  coffee: "∞ cups/day ☕"
+  coffee: "∞ cups/day ☕",
+  internshipLearnings: {
+    technical: ["Production-level code", "System design", "Testing strategies"],
+    soft: ["Team collaboration", "Client communication", "Project management"]
+  }
 };
+```
+
+</div>
+
+## 🌱 What I Learned from Internships
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Real_World_Experience-100%25-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Team_Collaboration-Expert-2196F3?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem_Solving-Advanced-FF9800?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📫 Let's Connect!
+
+<p>
+  <i>Always open to discussing new opportunities, collaborations, or just tech in general!</i>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=takapom&color=blueviolet&style=for-the-badge" />
+
+</div>
