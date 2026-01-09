@@ -140,19 +140,6 @@ const takapom = {
 <br><br>
 
 ---
-
-<br>
-
-## 🏆 AWARDS COLLECTION
-
-```
-✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=takapom&theme=flat&no-frame=true&row=1&column=6&margin-w=15" />
-
-```
-✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
 ```
 
 <br>
