@@ -1,243 +1,228 @@
 <div align="center">
-  
-# 🚀 Welcome to My Code Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Hi!+I'm+a+Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+the+Future%2C+One+Commit+at+a+Time;Turning+Coffee+into+Code+Since+2020+%E2%98%95" alt="Typing SVG" />
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ HEADER ✦ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&text=&fontSize=0" width="100%"/>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]()
+<br>
 
-</div>
+# ⎯⎯⎯ &nbsp; **TAKAPOM** &nbsp; ⎯⎯⎯
 
-## 💼 Professional Experience
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=24&duration=4000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=500&lines=Fashion+%C3%97+Technology;Crafting+Digital+Experiences;Class+of+2027+%E2%86%92+ZOZO" alt="Typing SVG" />
 
-<div align="center">
-  
-### 🌟 Internship Journey
+<br>
 
-## 💼 職務経験
-
-### 🌟 インターンシップ経験
-
-
-## 💼 職務経験
-
-### 🌟 インターンシップ経験
-
-
-#### 🏢 ONE CAREER（2025.06 - 2025.06）  
-
-**役割**: Webアプリのパフォーマンスチューニング  
-**使用技術**: Next.js, Golang, PostgresSQL, Docker  
-
-**業務内容・成果**  
-既存のWebアプリのパフォーマンス速度40%向上  
-主にフロントエンドのチューニングの実装  
-
-
----
-
-#### 🏢 GMO（2025.08 - 2025.08）  
-
-**役割**: 既存サービス「ConoHa」のチーム開発  
-**使用技術**: Next.js, TypeScript, AWS  
-
-**業務内容・成果**  
-インターン内で優秀賞をいただいた  
-「easy」「hard」モードの導入によりUX向上  
-その他、既存サービスにない機能やUIを実現  
-
-
----
-
-#### 🏢 Sky株式会社（2025.08 - 2025.09）  
-
-**役割**: Web開発インターン  
-**使用技術**: React, Next.js  
-
-**業務内容・成果**  
-コーポレートサイト改修とSEO最適化を担当  
-モバイル端末での表示速度改善により検索順位向上に貢献  
-新規コンテンツ追加とUI改善でUXを向上  
-
-
----
-
-#### 🏢 ラクス（2025.08 - 2025.08）  
-
-**役割**: フルスタック開発インターン  
-**使用技術**: Node.js, Vue.js, TypeScript  
-
-**業務内容・成果**  
-FBに特化したチャットアプリの開発
-
----
-
-#### 🏢 株式会社Omluc（2025.03 - 2025.08）  
-
-**役割**: Difyプラグイン開発  
-**使用技術**: Dify, Python, Flask, React  
-
-**業務内容・成果**  
-Dify導入支援とPythonによるプラグイン開発を実施  
-プラグインの設計・実装によるプロダクト開発  
-
-
----
-
-#### 🏢 iimon（2025.08 - 2025.08）  
-
-**役割**: フロントエンド  
-**使用技術**: React, Material UI, Next.js  
-
-**業務内容・成果**  
-インターン内で優秀賞をいただいた  
-「easy」「hard」モードの導入によりUX向上  
-その他、既存サービスにない機能やUIを実現  
-
-
----
-
-#### 🏢 エキサイト株式会社（2025.10 - 2025.11）  
-
-**役割**: 既存サービスのバックエンド開発  
-**使用技術**: Golang, Next.js, AWS  
-
-**業務内容・成果**  
-（記入予定）  
-（記入予定）  
-（記入予定）  
-
-
----
-
-#### 🏢 株式会社スリーシェイク（2025.08 - 2025.10）  
-
-**役割**: インフラ開発  
-**使用技術**: Kubernetes, Docker, AWS, EC2  
-
-**業務内容・成果**  
-（記入予定）  
-（記入予定）  
-（記入予定）  
-
-
-
-### 🎯 Key Achievements
-
-```yaml
-Internship Highlights:
-  - Developed: Production-ready features used by 10k+ users
-  - Collaborated: Cross-functional teams in Agile/Scrum environment
-  - Optimized: Application performance by 40% through code refactoring
-  - Implemented: CI/CD pipelines using GitHub Actions and Docker
-  - Contributed: 50+ PRs merged to production codebase
-  - Mentored: 3 junior developers and conducted weekly code reviews
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│     " Where Code Meets Style "                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+<br>
 
-## 🛠️ Tech Stack & Tools
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ ABOUT ✦ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  
-### 💻 Languages & Frameworks
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,go&theme=dark" />
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### 🎨 Frontend Magic
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass&theme=dark" />
-  </a>
-</p>
+### 🏷️ &nbsp; **PROFILE**
 
-### 🗄️ Backend & Database
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,firebase,mongodb&theme=dark" />
-  </a>
-</p>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-### 🔧 DevOps & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,discord&theme=dark" />
-  </a>
-</p>
+<br>
 
-</div>
+**27卒** · **ZOZO入社予定**
 
-## 📊 GitHub Analytics
+<br>
 
-<div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takapom&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takapom&theme=tokyonight" />
-</div>
+*Backend Engineer*
+<br>
+*Search & Recommendation Systems*
 
-<div align="center">
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takapom&theme=tokyonight" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takapom&theme=tokyonight" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takapom&theme=tokyonight&utcOffset=9" />
-</div>
+<br>
 
-## 🏆 GitHub Trophies
+[![ZOZO](https://img.shields.io/badge/ZOZO-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://zozo.jp/)
+[![2027](https://img.shields.io/badge/Class_of_2027-1a1a2e?style=for-the-badge)](/)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=takapom&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+<br>
 
-## 📈 Contribution Graph
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takapom&theme=tokyonight&hide_border=true" />
-</div>
+<br>
 
-## 🎯 Current Focus
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ TECH STACK ✦ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  
-```javascript
-const currentFocus = {
-  learning: ["Cloud Architecture", "AI/ML Integration", "Web3"],
-  building: ["Full-Stack Applications", "Open Source Tools"],
-  exploring: ["New Frameworks", "Best Practices", "Performance Optimization"],
-  coffee: "∞ cups/day ☕",
-  internshipLearnings: {
-    technical: ["Production-level code", "System design", "Testing strategies"],
-    soft: ["Team collaboration", "Client communication", "Project management"]
-  }
-};
+## ─────── &nbsp; **COLLECTION** &nbsp; ───────
+### *Development Stack*
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
+*— essentials —*
+
+<br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,go,python&theme=light" />
+</a>
+
+<br><br>
+
+`TypeScript` `Go` `Python`
+
+</td>
+<td align="center" width="33%">
+
+#### 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃
+*— styling —*
+
+<br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" />
+</a>
+
+<br><br>
+
+`React` `Next.js` `Tailwind`
+
+</td>
+<td align="center" width="33%">
+
+#### 𝐁𝐀𝐂𝐊𝐄𝐍𝐃
+*— foundation —*
+
+<br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=light" />
+</a>
+
+<br><br>
+
+`Node.js` `Express` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 𝐈𝐍𝐅𝐑𝐀 & 𝐃𝐄𝐕𝐎𝐏𝐒
+*— architecture —*
+
+<br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=light" />
+</a>
+
+<br><br>
+
+`Docker` `Kubernetes` `AWS` `GCP`
+
+</td>
+<td align="center" width="50%">
+
+#### 𝐓𝐎𝐎𝐋𝐒
+*— accessories —*
+
+<br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+</a>
+
+<br><br>
+
+`Git` `GitHub` `VSCode` `Figma`
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ STATS ✦ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## ─────── &nbsp; **LOOKBOOK** &nbsp; ───────
+### *GitHub Analytics*
+
+<br>
+
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takapom&theme=default" />
+
+<br>
+
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takapom&theme=default" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takapom&theme=default" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takapom&theme=default&utcOffset=9" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=takapom&theme=graywhite&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="60%" />
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ TROPHIES ✦ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=takapom&theme=flat&no-frame=true&row=1&column=6&margin-w=15" />
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ FOOTER ✦ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## ─────── &nbsp; **CONTACT** &nbsp; ───────
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takapom)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)]()
+
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    Thanks for visiting ♡
+                    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</div>
+<br>
 
-## 🌱 What I Learned from Internships
+<img src="https://komarev.com/ghpvc/?username=takapom&color=000000&style=flat-square&label=visitors" />
 
-<div align="center">
+<br><br>
 
-<img src="https://img.shields.io/badge/Real_World_Experience-100%25-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Team_Collaboration-Expert-2196F3?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem_Solving-Advanced-FF9800?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-  
-### 📫 Let's Connect!
-
-<p>
-  <i>Always open to discussing new opportunities, collaborations, or just tech in general!</i>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=takapom&color=blueviolet&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
